@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-jdkl;fjasdfkl;dsf
+## 个人介绍
 
-jifengHe
-dasgasdfhjkl
-
-fasgasas
+我叫何锦锋，目前是一名在校研究生。我喜欢打篮球。
